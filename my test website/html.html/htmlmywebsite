@@ -1,0 +1,44 @@
+<DOCTYPE! html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    </head>
+
+    <body class="wholething">
+    <header class="info">
+    	<h1>Jessica Baskerville</h1>
+    	<h3>Software Engineer</h3>
+	  </header>
+    <hr class="hr1">
+  
+    <main>
+      <div class="picture">
+        <img src="20191218_140301.jpg" width="100" class=center>
+        </div>
+        <hr class="hr1">
+        <div class="info">
+        <h3>About Me</h3>
+        <p class="info">Hi, I am Jessica and I am so excited to be on this journey with all of you. Feel free to take a look at my website to learn a little more about me. I look forward to working with you.</p>
+        <p class="info"> I live in Raleigh, North Carolina.</p>
+        <h3>Hobbies</h3>
+        <ul>
+          <li>I have five kids, and they keep me on my toes, I have four boys and one girl.</li>
+          <li> I have a degree in the culinary arts and previously worked as a pastry chef. </li>
+          <li> I am really excited about my journey into coding and software development.</li>
+        </div>
+      <hr class="hr1">
+
+        
+          <h3>Contact Me</h3>
+          <a href="https://github.com/sokoki86" class="links"> Github </a><a href="https://www.linkedin.com/in/jessica-baskerville-942b211b4/" class="links">LinkedIn</a><a href = "mailto: jmbaskerville1217@gmail.com"class="links"> Email</a>
+        
+
+      </main>
+
+    <footer class"info">
+      <p> made by Jessica Baskerville</p>
+    </footer>

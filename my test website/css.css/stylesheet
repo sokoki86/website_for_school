@@ -1,0 +1,30 @@
+stylesheet
+
+
+
+.info, h3{
+	color: 7EA0B7;
+	background-color: 000000;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.picture{
+  background-color:597081;
+}
+
+.wholething{
+  background-color:36494E;
+}
+.links{
+  background-color:A9CEF4;
+  font-size: 30px;
+  margin: 10px;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
